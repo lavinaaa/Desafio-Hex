@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1707976454 source:c:\users\thyag.voltbras2022\onedrive\Área de trabalho\desafio_code\desafio_hex\attitude_exam.c
+
+1707976543 source:c:\users\thyag.voltbras2022\onedrive\Área de trabalho\desafio_code\desafio_hex\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cmath>
+
